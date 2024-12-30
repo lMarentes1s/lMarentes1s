@@ -1,7 +1,5 @@
 # 👋 Hi, I'm lmarentesis!  
 
-![Header Image](https://github.com/lMarentes1s/lMarentes1s/blob/main/5e3a6cd4-33d9-4300-a7ba-eb24135c5580)
-
 ### 📊 **Data Enthusiast | Future A.I. Engineer**
 
 ---
