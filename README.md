@@ -6,9 +6,9 @@
 
 ## 🎓 **About Me**
 - 📚 Software Engineering student at **Jala University**.  
-- 📊 Passionate about data analysis, visualization, and machine learning.  
+- 📊 Passionate about data Engineer, machine learning, and deep learning.  
 - 💻 Currently working on personal projects to strengthen my skills in **Data Engineering**.  
-- 🌱 Constantly learning about **Python, SQL, and Machine Learning**.  
+- 🌱 Constantly learning about **Python, C++, SQL, and Deep Learning**.  
 - 🎯 Seeking opportunities to apply my knowledge in a professional environment and continue growing.  
 
 ---
