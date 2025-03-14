@@ -1,59 +1,64 @@
-# 👋 Hi, I'm lmarentesis!  
+# 👋 Hi, I'm [Marentesis]!
 
-### 📊 **Data Enthusiast | Future A.I. Engineer**
-
----
-
-## 🎓 **About Me**
-- 📚 Software Engineering student at **Jala University**.  
-- 📊 Passionate about data Engineer, machine learning, and deep learning.  
-- 💻 Currently working on personal projects to strengthen my skills in **Data Engineering**.  
-- 🌱 Constantly learning about **Python, C++, SQL, and Deep Learning**.  
-- 🎯 Seeking opportunities to apply my knowledge in a professional environment and continue growing.  
+I'm a **mobile developer** with extensive experience in **Kotlin** and **Jetpack Compose**. I’m passionate about building modern, efficient, and user-friendly mobile applications. From designing interfaces to implementing advanced app architectures, I focus on delivering clean, scalable solutions.
 
 ---
 
-## 🛠️ **Technical Skills**
+## 🚀 Skills
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)
-![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy)
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql)
-![Power BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=powerbi)
-![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=tableau)
-![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat&logo=scikit-learn)
-![Excel](https://img.shields.io/badge/-Excel-05122A?style=flat&logo=microsoftexcel)
+- **Languages & Technologies:**
+  - Kotlin
+  - Jetpack Compose
+  - Android SDK
+  - Firebase (Realtime DB, Firestore, Auth)
+  - RESTful APIs (Retrofit, Gson)
+  - Kotlin Coroutines
 
----
+- **Tools & Frameworks:**
+  - Android Studio
+  - Git/GitHub
+  - CI/CD with GitHub Actions
+  - Room (SQLite Database)
+  - Dagger/Hilt (Dependency Injection)
 
-## 📂 **Featured Projects**
-
-1. **📊 Sales Data Analysis**  
-   - Data exploration and visualization to identify key trends in sales.  
-   - **Technologies:** Python, Pandas, Matplotlib  
-   - [🔗 View Project](#)
-
-2. **🤖 Predictive Machine Learning Model**  
-   - Developed a model to predict employee turnover.  
-   - **Technologies:** Python, Scikit-learn, SQL  
-   - [🔗 View Project](#)
+- **Architecture:**
+  - MVVM (Model-View-ViewModel)
+  - Clean Architecture
+  - Jetpack Libraries (LiveData, ViewModel, Navigation)
 
 ---
 
-## 📈 **GitHub Stats**
+## 📱 Mobile Development Experience
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lMarentes1s&show_icons=true&theme=dracula)
-![Top Technologies](https://github-readme-stats.vercel.app/api/top-langs/?username=lMarentes1s&layout=compact&theme=dracula)
+With a strong understanding of mobile development best practices, I specialize in building Android applications using **Kotlin** and **Jetpack Compose**. My projects focus on delivering smooth, interactive, and visually appealing user experiences.
+
+Some examples of projects I’ve developed include:
+
+- **To-Do List App:** With local storage using Room, dynamic UI with **Jetpack Compose**, and MVVM architecture.
+- **Weather App:** API integration (OpenWeather), data handling with **Retrofit**, and UI management with **Jetpack Compose** and **Coroutines**.
+- **Messaging App:** Authentication with **Firebase Auth**, real-time messaging with **Firestore**, and push notifications with **Firebase Cloud Messaging**.
 
 ---
 
-## 📫 **Let's Connect!**
+## 💡 What I’m Passionate About
 
-- 📧 [Email](mailto:marentesis@proton.me)  
+- Building fast, intuitive, and high-quality mobile applications.
+- Exploring new technologies in mobile development and contributing to open-source projects.
+- Continuously improving my skills and learning about new tools and techniques.
 
 ---
 
-⭐️ *If you like my work, don't forget to star my repositories!* 🚀  
+## 📝 Featured Projects
 
+### In Construction
+---
 
+## 📬 Let's Connect!
 
+- **LinkedIn:** [Your LinkedIn](link-to-your-linkedin)
+- **Twitter:** [@YourUsername](link-to-your-twitter)
+- **Email:** [your-email@example.com](mailto:your-email@example.com)
+
+---
+
+Thanks for visiting my profile! 🚀
