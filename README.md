@@ -7,24 +7,24 @@ I'm a **mobile developer** with extensive experience in **Kotlin** and **Jetpack
 ## 🚀 Skills
 
 - **Languages & Technologies:**
-  - Kotlin
-  - Jetpack Compose
-  - Android SDK
-  - Firebase (Realtime DB, Firestore, Auth)
-  - RESTful APIs (Retrofit, Gson)
-  - Kotlin Coroutines
+  - ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+  - ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-03D4D8?style=for-the-badge&logo=android&logoColor=white)
+  - ![Android SDK](https://img.shields.io/badge/Android-SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+  - ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+  - ![Retrofit](https://img.shields.io/badge/Retrofit-2E7D32?style=for-the-badge&logo=google&logoColor=white)
+  - ![Kotlin Coroutines](https://img.shields.io/badge/Kotlin_Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 - **Tools & Frameworks:**
-  - Android Studio
-  - Git/GitHub
-  - CI/CD with GitHub Actions
-  - Room (SQLite Database)
-  - Dagger/Hilt (Dependency Injection)
+  - ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+  - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+  - ![CI/CD](https://img.shields.io/badge/CICD-00B0B9?style=for-the-badge&logo=github-actions&logoColor=white)
+  - ![Room](https://img.shields.io/badge/Room-8A2BE2?style=for-the-badge&logo=sqlite&logoColor=white)
+  - ![Dagger](https://img.shields.io/badge/Dagger-FFAD00?style=for-the-badge&logo=google&logoColor=black)
 
 - **Architecture:**
-  - MVVM (Model-View-ViewModel)
-  - Clean Architecture
-  - Jetpack Libraries (LiveData, ViewModel, Navigation)
+  - ![MVVM](https://img.shields.io/badge/MVVM-1976D2?style=for-the-badge&logo=android&logoColor=white)
+  - ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-76C7B7?style=for-the-badge&logo=android&logoColor=white)
+  - ![Jetpack Libraries](https://img.shields.io/badge/Jetpack_Libraries-03D4D8?style=for-the-badge&logo=android&logoColor=white)
 
 ---
 
@@ -34,7 +34,7 @@ With a strong understanding of mobile development best practices, I specialize i
 
 Some examples of projects I’ve developed include:
 
-- **To-Do List App:** With local storage using Room, dynamic UI with **Jetpack Compose**, and MVVM architecture.
+- **To-Do List App:** With local storage using **Room**, dynamic UI with **Jetpack Compose**, and **MVVM** architecture.
 - **Weather App:** API integration (OpenWeather), data handling with **Retrofit**, and UI management with **Jetpack Compose** and **Coroutines**.
 - **Messaging App:** Authentication with **Firebase Auth**, real-time messaging with **Firestore**, and push notifications with **Firebase Cloud Messaging**.
 
@@ -50,14 +50,32 @@ Some examples of projects I’ve developed include:
 
 ## 📝 Featured Projects
 
-### In Construction
+- ** In contruccion
+
+---
+
+## 📊 GitHub Stats & Activity
+
+Here are some widgets that show my GitHub activity and programming skills:
+
+- **GitHub Stats:**
+
+  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=dark)
+
+- **Top Languages Used:**
+
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)
+
+- **GitHub Streak:**
+
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark)
+
 ---
 
 ## 📬 Let's Connect!
 
-- **LinkedIn:** [Your LinkedIn](link-to-your-linkedin)
-- **Twitter:** [@YourUsername](link-to-your-twitter)
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
+
+- **Email:** [marentesis@proton.me](mailto:marentesis@proton.me)
 
 ---
 
