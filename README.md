@@ -51,27 +51,8 @@ Some examples of projects I’ve developed include:
 ## 📝 Featured Projects
 
 - ** In contruccion
-
----
-
-## 📊 GitHub Stats & Activity
-
-Here are some widgets that show my GitHub activity and programming skills:
-
-- **GitHub Stats:**
-
-  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=dark)
-
-- **Top Languages Used:**
-
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)
-
-- **GitHub Streak:**
-
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark)
-
----
-
+ ---
+ 
 ## 📬 Let's Connect!
 
 
